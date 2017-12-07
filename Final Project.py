@@ -1,12 +1,12 @@
 # PROLOG SECTION
 # CIT144-Python Final Project
 # This is a guest log entry form
-# 11/24/2017
+# 12/6/2017
 # Thomas Schueler
 # Andrew Fraysure
 # Jerry Alsbrooks
-# Possible future enhancements: State Selection and Answer to question should both be a drop down menu
-# Unresolved bugs:
+# Possible future enhancements: 
+# Unresolved bugs: The mailing list function doesnt return a value.
 ##############################
 
 #import tkinter to make a gui
